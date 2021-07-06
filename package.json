@@ -1,0 +1,14 @@
+{
+  "name": "funiro",
+  "version": "1.0.0",
+  "description": "Создание макета funiro",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "belinskiy",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
